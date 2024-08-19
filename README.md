@@ -1,5 +1,6 @@
 # ポートフォリオの概要
-+ 目的：Googleの一般公開データセットを用いてデータ分析の基礎的スキルの向上を狙う
+## 目的
+Googleの一般公開データセットを用いてデータ分析の基礎的スキルの向上を狙う
 + 重点：SQL,Big query ML,Looker Studioの学習
 + データセット：bigquery-public-data.thelook_ecommerce
 + 動作環境：Google Cloud Platform(Big query)
