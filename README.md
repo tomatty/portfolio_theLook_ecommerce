@@ -7,5 +7,5 @@
 + 可視化ツール:Looker Studio
 
 ## URL
-+ [可視化レポートURL](https://lookerstudio.google.com/reporting/7fbab8cd-9f02-4d07-b43a-3b2b0acbf583/page/t9DwD)
-+ [考察レポートURL](https://drive.google.com/file/d/1UnowlraWAdI98fRZFLgjQnKSPXQXUYlU/view?usp=sharing)
++ [可視化レポート](https://lookerstudio.google.com/reporting/7fbab8cd-9f02-4d07-b43a-3b2b0acbf583/page/t9DwD)
++ [考察レポート](https://drive.google.com/file/d/1UnowlraWAdI98fRZFLgjQnKSPXQXUYlU/view?usp=sharing)
